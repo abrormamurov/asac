@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.artboard {
+  background-image: url(./assets/photo_2024-05-16_23-44-33.jpg);
+  background-size: cover;
+}
