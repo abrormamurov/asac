@@ -5,8 +5,8 @@ function App() {
       <div className="display">
         <div className="artboard artboard-demo phone-1">
           <span className="countdown pb-72 font-mono text-2xl">
-            <span style={{ "--value": 1 }}></span>:
-            <span style={{ "--value": 14 }}></span>
+            <span style={{ "--value": 12 }}></span>:
+            <span style={{ "--value": 25 }}></span>
           </span>
           <button
             className="btn"
